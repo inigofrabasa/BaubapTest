@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Baubap</string>
+
+    <string name="login_activity_hint_email_edit_text">Email</string>
+    <string name="login_activity_hint_password_edit_text">Password</string>
+    <string name="login_activity_action_sign">Sign in</string>
+    <string name="login_activity_sign_button">Sign in</string>
+    <string name="login_activity_title_dialog">User Data</string>
+
+    <string name="dialog_fragment_message_ok">OK</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="error_syntax_invalid">This syntax invalid</string>
+    <string name="error_password_weak">The password is weak</string>
+
+</resources>
